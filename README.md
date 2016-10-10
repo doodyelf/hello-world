@@ -1,2 +1,2 @@
 # hello-world
-description
+description ribbish, no private repositoories are free
